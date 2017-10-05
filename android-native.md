@@ -14,22 +14,22 @@ publishing something you copied or cloned.
 
 
 ## Tier 0 - CS / Java Foundations
-- [ ] Tutorial: [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
-- [ ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
-- [ ] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
-- [ ] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
-- [ ] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
-- [ ] Course: [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
-- [ ] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
-- [ ] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
-- [ ] Book: [Precalculus](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
+- [x] Tutorial: [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
+- [x] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [x] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
+- [x] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
+- [x] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
+- [x] Course: [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
+- [x] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
+- [x] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
+- [x] Book: [Precalculus](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
 
 ## Tier 1 - Android Fundamentals
-- [ ] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
-- [ ] Project: [Build a Single Screen App](./projects/android/YourFirstApp.md)
-- [ ] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
-- [ ] Project: [Court Counter App](./projects/android/CourtCounter.md)
-- [ ] Project: [Quiz App](./projects/android/QuizApp.md)
+- [x] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
+- [x] Project: [Build a Single Screen App](./projects/android/YourFirstApp.md)
+- [x] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+- [x] Project: [Court Counter App](./projects/android/CourtCounter.md)
+- [x] Project: [Quiz App](./projects/android/QuizApp.md)
 - [ ] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
 - [ ] Project: [Musical Structure App](./projects/android/MusicalStructure.md) 
 - [ ] Project: [Report Card](./projects/android/ReportCard.md) 
