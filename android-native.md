@@ -58,7 +58,7 @@ publishing something you copied or cloned.
 - [ ] Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus) Complete by the end of Tier 3    
 - [ ] Course: [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 - [ ] Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/) 
-- [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
+- [x] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
 - [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 - [ ] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ] Project: Complete all challenges from the [Code Jam Round 1B 2015](https://code.google.com/codejam/contest/8224486/dashboard)
