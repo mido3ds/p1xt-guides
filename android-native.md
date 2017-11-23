@@ -34,7 +34,7 @@ publishing something you copied or cloned.
 - [ ] Project: [Musical Structure App](./projects/android/MusicalStructure.md) 
 - [ ] Project: [Report Card](./projects/android/ReportCard.md) 
 - [ ] Project: [Tour Guide App](./projects/android/TourGuide.md)
-- [ ] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+- [X] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 - [ ] Project: [Book Listing App](./projects/android/BookListing.md)
 - [ ] Project: [News App](./projects/android/NewsApp.md)
 - [ ] Course: [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
