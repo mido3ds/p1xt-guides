@@ -37,9 +37,9 @@ publishing something you copied or cloned.
 - [X] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 - [ ] Project: [Book Listing App](./projects/android/BookListing.md)
 - [ ] Project: [News App](./projects/android/NewsApp.md)
-- [ ] Course: [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+- [X] Course: [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 - [ ] Project: [Habit Tracker App](./projects/android/HabitTracker.md) 
-- [ ] Project: [Inventory App](./projects/android/Inventory.md)
+- [X] Project: [Inventory App](./projects/android/Inventory.md)
 
 ## Tier 2 - Intermediate Android
 - [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1) Complete by end of Tier 2 
