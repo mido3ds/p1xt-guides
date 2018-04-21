@@ -46,7 +46,7 @@ publishing something you copied or cloned.
 - [ ] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Project: [Popular Movies, Stage 1](./projects/android/PopularMoviesStage1.md)
 - [ ] Project: [Popular Movies, Stage 2](./projects/android/PopularMoviesStage2.md)
-- [ ] Course: [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
+- [X] Course: [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 - [ ] Project: [Build it Bigger](./projects/android/BuildItBigger.md)
 - [ ] Course: [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 - [ ] Project: [Make Your App Material](./projects/android/MakeYourAppMaterial.md)
