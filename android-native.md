@@ -49,7 +49,7 @@ publishing something you copied or cloned.
 - [X] Course: [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 - [ ] Project: [Build it Bigger](./projects/android/BuildItBigger.md)
 - [ ] Course: [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
-- [ ] Project: [Make Your App Material](./projects/android/MakeYourAppMaterial.md)
+- [X] Project: [Make Your App Material](./projects/android/MakeYourAppMaterial.md)
 - [ ] Project: [Capstone, Stage 1 - Design](./projects/android/CapstoneStage1-Design.md)
 - [ ] Project: [Capstone, Stage 2 - Build](./projects/android/CapstoneStage2-Build.md)
 
