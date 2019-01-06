@@ -70,7 +70,7 @@ publishing something you copied or cloned.
 ## Tier 4 - Advanced Android
 
 - [X] Project: [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
-- [ ] Project: [Outbreak](./projects/android/Outbreak.md)
+- [X] Project: [Outbreak](./projects/android/Outbreak.md)
 - [ ] Course: [Google Location Services on Android](https://www.udacity.com/course/google-location-services-on-android--ud876-1)
 - [ ] Course: [Monetize Your Android App with Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)
 - [ ] Course: [Add Google Maps to your Android App](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)
